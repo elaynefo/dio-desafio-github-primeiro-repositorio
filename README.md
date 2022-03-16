@@ -1,3 +1,3 @@
-# Desafio de Projetos de Git/Github da DIO
+# Repositório de Projetos DIO
 
-Esse repositório foi criado como parte do desafio de projetos da DIO, com a proposta de incentivar a utilização do Git/Github pelos alunos.
+Repositório do desafio de projetos da DIO.
